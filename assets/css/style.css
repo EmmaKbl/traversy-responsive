@@ -121,3 +121,15 @@ a {
     color: #333;
     padding: 2em;
 }
+
+
+/* fourth section  */
+
+.section-d .box {
+    padding: 2em;
+    color: #fff;
+}
+
+.section-d .box:first-child {
+    background-color: #2690d4;
+}

@@ -99,3 +99,16 @@ a {
     color: #333;
     padding-bottom: 2em;
 }
+
+
+/* second section css */
+
+.card-text {
+    padding: 1.5em;
+}
+
+.section-b li {
+    margin-bottom: 1em;
+    background-color: #fff;
+    color: #333;
+}

@@ -90,3 +90,12 @@ a {
 
 
 /* end of header css  */
+
+
+/* first section css  */
+
+.section-a {
+    background-color: #eaeaea;
+    color: #333;
+    padding-bottom: 2em;
+}
